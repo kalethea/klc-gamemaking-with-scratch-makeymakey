@@ -7,7 +7,7 @@ In 2019, we want to challenge Canadians to pause and think, learn about, share, 
 
 See slide 9 for suggestions on how learners can incorporate this month’s theme into their projects.
 
-# Kids Learning Code: Gamemaking and Circuitry with Scratch &amp; MaKey MaKey
+# Teachers Learning Code: Gamemaking and Circuitry with Scratch &amp; MaKey MaKey
 
 ## Quick Links
 
